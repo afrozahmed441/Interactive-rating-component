@@ -102,10 +102,9 @@ In CSS I learned how to store and use the custom properties. CSS custome propert
 }
 
 body {
-  color: var(--color-white)l
+  color: var(--color-white);
   background-color: var(--color-black);
 }
-
 ```
 
 ### Useful resources
