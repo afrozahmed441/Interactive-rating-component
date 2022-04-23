@@ -98,6 +98,7 @@ body {
 .btn-rate {
   border: none;
   font-family: inherit;
+  font-size: inherit;
   background-color: var(--color-dark-blue);
   color: var(--color-medium-gray);
   padding: 1.5rem 2rem;
