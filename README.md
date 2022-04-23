@@ -25,26 +25,14 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Solution Screenshots
+### Screenshot
 
-Desktop View:
-
-![](./solution-screenshots/desktop-screenshot.png)
-
-![](./solution-screenshots/active-state.png)
-
-![](./solution-screenshots/desktop-thankyou-card.png)
-
-Mobile View:
-
-![](./solution-screenshots/mobile-view-screenshot.png)
-
-![](./solution-screenshots/mobile-thankyou-card.png)
+![](./design/desktop-preview.jpg)
 
 ### Links
 
-- Solution URL: [https://github.com/afrozahmed441/Interactive-rating-component](https://github.com/afrozahmed441/Interactive-rating-component)
-- Live Site URL: [https://illustrious-shortbread-5f9c3e.netlify.app](https://illustrious-shortbread-5f9c3e.netlify.app)
+- Solution URL: [Github](https://github.com/afrozahmed441/Interactive-rating-component)
+- Live Site URL: [Website](https://illustrious-shortbread-5f9c3e.netlify.app)
 
 ## My process
 
